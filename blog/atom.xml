@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ShangjinTang.github.io/site/blog</id>
     <title>My Site Blog</title>
-    <updated>2023-11-29T00:00:00.000Z</updated>
+    <updated>2023-12-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ShangjinTang.github.io/site/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://ShangjinTang.github.io/site/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Change Default Fonts]]></title>
+        <id>https://ShangjinTang.github.io/site/blog/features/change-default-fonts</id>
+        <link href="https://ShangjinTang.github.io/site/blog/features/change-default-fonts"/>
+        <updated>2023-12-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Default fonts are now changed to:]]></summary>
+        <content type="html"><![CDATA[<p>Default fonts are now changed to:</p>
+<ul>
+<li><code>Optimistic Display</code> (for normal text)</li>
+<li><code>Source Code Pro</code> (for monospaced text)</li>
+</ul>]]></content>
+        <author>
+            <name>Shangjin Tang</name>
+        </author>
+        <category label="font" term="font"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interactive Map with Leaflet]]></title>
         <id>https://ShangjinTang.github.io/site/blog/features/interactive-map-with-leaflet</id>

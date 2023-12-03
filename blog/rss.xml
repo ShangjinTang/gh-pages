@@ -4,10 +4,23 @@
         <title>My Site Blog</title>
         <link>https://ShangjinTang.github.io/site/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Wed, 29 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Change Default Fonts]]></title>
+            <link>https://ShangjinTang.github.io/site/blog/features/change-default-fonts</link>
+            <guid>https://ShangjinTang.github.io/site/blog/features/change-default-fonts</guid>
+            <pubDate>Sun, 03 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Default fonts are now changed to:]]></description>
+            <content:encoded><![CDATA[<p>Default fonts are now changed to:</p>
+<ul>
+<li><code>Optimistic Display</code> (for normal text)</li>
+<li><code>Source Code Pro</code> (for monospaced text)</li>
+</ul>]]></content:encoded>
+            <category>font</category>
+        </item>
         <item>
             <title><![CDATA[Interactive Map with Leaflet]]></title>
             <link>https://ShangjinTang.github.io/site/blog/features/interactive-map-with-leaflet</link>
