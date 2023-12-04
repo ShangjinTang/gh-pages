@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[4121],{8070:a=>{a.exports=JSON.parse('[{"label":"Machine Learning","permalink":"/site/docs/tags/machine-learning","count":3},{"label":"Data Science","permalink":"/site/docs/tags/data-science","count":1},{"label":"Pandas","permalink":"/site/docs/tags/pandas","count":1}]')}}]);
