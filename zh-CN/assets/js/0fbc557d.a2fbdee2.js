@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[8677],{6235:s=>{s.exports=JSON.parse('{"label":"font","permalink":"/site/zh-CN/blog/tags/font","allTagsPath":"/site/zh-CN/blog/tags","count":2,"unlisted":false}')}}]);

@@ -9,8 +9,8 @@
     <icon>https://ShangjinTang.github.io/site/img/favicon_sol.ico</icon>
     <entry>
         <title type="html"><![CDATA[Support YouTube Link]]></title>
-        <id>https://ShangjinTang.github.io/site/blog/site/support-youtube-link</id>
-        <link href="https://ShangjinTang.github.io/site/blog/site/support-youtube-link"/>
+        <id>https://ShangjinTang.github.io/site/blog/mdx/support-youtube-link</id>
+        <link href="https://ShangjinTang.github.io/site/blog/mdx/support-youtube-link"/>
         <updated>2023-12-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Now we can use YouTube Link with React Lite YouTube Embed.]]></summary>
         <content type="html"><![CDATA[<p>Now we can use YouTube Link with <a href="https://github.com/ibrahimcesar/react-lite-youtube-embed" target="_blank" rel="noopener noreferrer">React Lite YouTube Embed</a>.</p>
@@ -19,16 +19,17 @@
         <author>
             <name>Sol</name>
         </author>
-        <category label="site" term="site"/>
-        <category label="font" term="font"/>
+        <category label="mdx" term="mdx"/>
+        <category label="youtube" term="youtube"/>
+        <category label="video-container" term="video-container"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Change Default Fonts]]></title>
         <id>https://ShangjinTang.github.io/site/blog/site/change-default-fonts</id>
         <link href="https://ShangjinTang.github.io/site/blog/site/change-default-fonts"/>
         <updated>2023-12-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Default fonts are now changed to:]]></summary>
-        <content type="html"><![CDATA[<p>Default fonts are now changed to:</p>
+        <summary type="html"><![CDATA[Default fonts on this site are now changed to:]]></summary>
+        <content type="html"><![CDATA[<p>Default fonts on this site are now changed to:</p>
 <ul>
 <li><code>Optimistic Display</code> (for normal text)</li>
 <li><code>Source Code Pro</code> (for monospaced text)</li>
@@ -44,8 +45,8 @@
         <id>https://ShangjinTang.github.io/site/blog/mdx/support-mermaid-diagrams</id>
         <link href="https://ShangjinTang.github.io/site/blog/mdx/support-mermaid-diagrams"/>
         <updated>2023-11-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mermaid is a diagramming and charting tool.]]></summary>
-        <content type="html"><![CDATA[<p>Mermaid is a diagramming and charting tool.</p>
+        <summary type="html"><![CDATA[Mermaid is a diagramming and charting tool, and now is officially supported by our website.]]></summary>
+        <content type="html"><![CDATA[<p>Mermaid is a diagramming and charting tool, and now is officially supported by our website.</p>
 <p>See <a href="https://mermaid.js.org/config/Tutorials.html" target="_blank" rel="noopener noreferrer">Mermaid Tutorials</a> and play with <a href="https://mermaid.live/" target="_blank" rel="noopener noreferrer">Mermaid Live Editor</a>.</p>
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="sequence-diagram">Sequence Diagram<a href="https://shangjintang.github.io/site/blog/mdx/support-mermaid-diagrams#sequence-diagram" class="hash-link" aria-label="Direct link to Sequence Diagram" title="Direct link to Sequence Diagram">​</a></h2>
 <div class="language-md codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockTitle_Ktv7">Example Mermaid sequence diagram</div><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-md codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token code punctuation" style="color:#393A34">```</span><span class="token code code-language">mermaid</span><span class="token code"></span><br></span><span class="token-line" style="color:#393A34"><span class="token code"></span><span class="token code code-block language-mermaid">graph TD;</span><br></span><span class="token-line" style="color:#393A34"><span class="token code code-block language-mermaid">    A--&gt;B;</span><br></span><span class="token-line" style="color:#393A34"><span class="token code code-block language-mermaid">    A--&gt;C;</span><br></span><span class="token-line" style="color:#393A34"><span class="token code code-block language-mermaid">    B--&gt;D;</span><br></span><span class="token-line" style="color:#393A34"><span class="token code code-block language-mermaid">    C--&gt;D;</span><span class="token code"></span><br></span><span class="token-line" style="color:#393A34"><span class="token code"></span><span class="token code punctuation" style="color:#393A34">```</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
@@ -66,9 +67,21 @@
         <id>https://ShangjinTang.github.io/site/blog/mdx/support-global-tabs-tabitem</id>
         <link href="https://ShangjinTang.github.io/site/blog/mdx/support-global-tabs-tabitem"/>
         <updated>2023-11-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus provides the `` component that you can use in Markdown thanks to MDX:]]></summary>
-        <content type="html"><![CDATA[<p>Docusaurus provides the <code>&lt;Tabs&gt;</code> component that you can use in Markdown thanks to MDX:</p>
-<p>We configured it globally so it's a feature available from everywhere.</p>]]></content>
+        <summary type="html"><![CDATA[Docusaurus provides ` component and ` component that you can use in Markdown thanks to MDX:]]></summary>
+        <content type="html"><![CDATA[<p>Docusaurus provides <code>&lt;Tabs&gt;</code> component and <code>&lt;TabItem&gt;</code> component that you can use in Markdown thanks to MDX:</p>
+<p>We configured it globally so it's a feature available from everywhere.</p>
+<div class="language-jsx codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-jsx codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag class-name" style="color:#00009f">Tabs</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain-text">  </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag class-name" style="color:#00009f">TabItem</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">value</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">apple</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">label</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">Apple</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">default</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain-text">    This is an apple 🍎</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain-text">  </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag class-name" style="color:#00009f">TabItem</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain-text">  </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag class-name" style="color:#00009f">TabItem</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">value</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">orange</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">label</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">Orange</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain-text">    This is an orange 🍊</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain-text">  </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag class-name" style="color:#00009f">TabItem</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain-text">  </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag class-name" style="color:#00009f">TabItem</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">value</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">banana</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">label</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">Banana</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain-text">    This is a banana 🍌</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain-text">  </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag class-name" style="color:#00009f">TabItem</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain-text"></span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag class-name" style="color:#00009f">Tabs</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<tabs>
+  <tabitem value="apple" label="Apple" default="">
+    This is an apple 🍎
+  </tabitem>
+  <tabitem value="orange" label="Orange">
+    This is an orange 🍊
+  </tabitem>
+  <tabitem value="banana" label="Banana">
+    This is a banana 🍌
+  </tabitem>
+</tabs>]]></content>
         <author>
             <name>Sol</name>
         </author>
@@ -81,9 +94,8 @@
         <id>https://ShangjinTang.github.io/site/blog/mdx/support-math-latex</id>
         <link href="https://ShangjinTang.github.io/site/blog/mdx/support-math-latex"/>
         <updated>2023-11-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mathematical equations can be rendered using KaTeX.]]></summary>
-        <content type="html"><![CDATA[<p>Mathematical equations can be rendered using <a href="https://katex.org/" target="_blank" rel="noopener noreferrer">KaTeX</a>.</p>
-<p>This document only shows usage. for installation, see <a href="https://docusaurus.io/docs/markdown-features/math-equations" target="_blank" rel="noopener noreferrer">Docusaurus - Math Equations</a>.</p>
+        <summary type="html"><![CDATA[Mathematical equations can be rendered using KaTeX, and is official supported on this site from now on.]]></summary>
+        <content type="html"><![CDATA[<p>Mathematical equations can be rendered using <a href="https://katex.org/" target="_blank" rel="noopener noreferrer">KaTeX</a>, and is official supported on this site from now on.</p>
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="usage">Usage<a href="https://shangjintang.github.io/site/blog/mdx/support-math-latex#usage" class="hash-link" aria-label="Direct link to Usage" title="Direct link to Usage">​</a></h2>
 <p>Please read <a href="https://katex.org/" target="_blank" rel="noopener noreferrer">KaTeX</a> documentation for more details.</p>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="inline">Inline<a href="https://shangjintang.github.io/site/blog/mdx/support-math-latex#inline" class="hash-link" aria-label="Direct link to Inline" title="Direct link to Inline">​</a></h3>
