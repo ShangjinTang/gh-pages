@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2010],{49024:s=>{s.exports=JSON.parse('{"label":"Cpp","permalink":"/site/zh-CN/docs/tags/cpp","allTagsPath":"/site/zh-CN/docs/tags","count":1,"items":[{"id":"modern-cpp/intro","title":"\u73b0\u4ee3 C++","description":"","permalink":"/site/zh-CN/docs/modern-cpp/intro"}],"unlisted":false}')}}]);

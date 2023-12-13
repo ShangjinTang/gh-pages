@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[5971],{72878:s=>{s.exports=JSON.parse('{"label":"flowchart","permalink":"/site/blog/tags/flowchart","allTagsPath":"/site/blog/tags","count":1,"unlisted":false}')}}]);

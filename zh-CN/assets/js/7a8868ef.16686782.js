@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2062],{77741:s=>{s.exports=JSON.parse('{"label":"icon","permalink":"/site/zh-CN/blog/tags/icon","allTagsPath":"/site/zh-CN/blog/tags","count":1,"unlisted":false}')}}]);

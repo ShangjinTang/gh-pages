@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[5268],{85314:s=>{s.exports=JSON.parse('{"label":"font-awesome","permalink":"/site/blog/tags/font-awesome","allTagsPath":"/site/blog/tags","count":1,"unlisted":false}')}}]);
