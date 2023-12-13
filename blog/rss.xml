@@ -21,13 +21,13 @@
 <p>By default, icons inherit the font-size of their parent container. Modern browsers are using default font size 16px.</p>
 <p>To change font size, add a following <code>size</code> attribute in FontAwesomeIcon:</p>
 <ul>
-<li><code>2xs</code>: 0.625em (10px)</li>
-<li><code>xs</code>: 0.75em (12px)</li>
-<li><code>sm</code>: 0.875em (14px)</li>
-<li><code>lg</code>: 1.25em (20px)</li>
-<li><code>xl</code>: 1.5em (24px)</li>
-<li><code>2xl</code>: 2em (32px)</li>
-<li><code>1x</code> ~ <code>10x</code>: 1em ~ 10em</li>
+<li><code>fa-2xs</code>: 0.625em (10px)</li>
+<li><code>fa-xs</code>: 0.75em (12px)</li>
+<li><code>fa-sm</code>: 0.875em (14px)</li>
+<li><code>fa-lg</code>: 1.25em (20px)</li>
+<li><code>fa-xl</code>: 1.5em (24px)</li>
+<li><code>fa-2xl</code>: 2em (32px)</li>
+<li><code>fa-1x</code> ~ <code>fa-10x</code>: 1em ~ 10em</li>
 </ul>]]></content:encoded>
             <category>mdx</category>
             <category>font-awesome</category>
