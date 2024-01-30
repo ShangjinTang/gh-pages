@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2216],{88397:s=>{s.exports=JSON.parse('{"label":"gcc","permalink":"/site/blog/tags/gcc","allTagsPath":"/site/blog/tags","count":1,"unlisted":false}')}}]);

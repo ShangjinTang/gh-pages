@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[1493],{55013:s=>{s.exports=JSON.parse('{"label":"clang","permalink":"/site/blog/tags/clang","allTagsPath":"/site/blog/tags","count":1,"unlisted":false}')}}]);
