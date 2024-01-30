@@ -227,7 +227,7 @@
 <li><code>2019-05-30-welcome/index.md</code></li>
 </ul>
 <p>写博客时，可以方便地在同级文件夹内引用图像：</p>
-<p><img loading="lazy" alt="Docusaurus 毛绒玩具" src="https://shangjintang.github.io/site/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Docusaurus 毛绒玩具" src="https://shangjintang.github.io/site/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
 <p>博客也支持标签！</p>
 <p><strong>如果不需要博客</strong>：删除此目录，并在 Docusaurus 配置中使用 <code>blog: false</code> 即可。</p>]]></content:encoded>
             <category>docusaurus</category>
