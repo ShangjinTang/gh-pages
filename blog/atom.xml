@@ -2,11 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ShangjinTang.github.io/site/blog</id>
     <title>Sol 的空间 Blog</title>
-    <updated>2023-12-13T00:00:00.000Z</updated>
+    <updated>2024-01-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ShangjinTang.github.io/site/blog"/>
     <subtitle>Sol 的空间 Blog</subtitle>
     <icon>https://ShangjinTang.github.io/site/img/favicon_sol.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[停止国际化支持]]></title>
+        <id>https://ShangjinTang.github.io/site/blog/site/remove-i18n-config</id>
+        <link href="https://ShangjinTang.github.io/site/blog/site/remove-i18n-config"/>
+        <updated>2024-01-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[删除所有的文章的国际化支持。之前所有文章均有双语版本，后续所有文章只会有单个语言版本。]]></summary>
+        <content type="html"><![CDATA[<p>删除所有的文章的国际化支持。之前所有文章均有双语版本，后续所有文章只会有单个语言版本。</p>
+<p>由于难以长期维护和保证内容的一致性，删除所有的双语文章和 docusaurus i18n 国际化配置：</p>
+<ol>
+<li>
+<p>双语文章需要额外的翻译时间。</p>
+</li>
+<li>
+<p>本站使用 docusaurus 部署，但是 docusaurus 在全局化存在各种问题，包括但不限于：</p>
+<ul>
+<li>需要保证文章链接的一致性，否则无法相互跳转。</li>
+<li>需要保证锚点（anchor tag）的一致性。</li>
+<li>假设配置是英文为主语言，这种情况下，不可以单独发表中文文章。如果要写中文文章，必须先存在的英文文章。</li>
+<li>中英文链接在不同目录，且层级不同，来回切换不方便。</li>
+</ul>
+</li>
+<li>
+<p>翻译不是一劳永逸的事情，每次更新某个语言的文章的时候，需要更新同时两种语言。</p>
+</li>
+</ol>]]></content>
+        <author>
+            <name>Sol</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[支持 Font Awesome]]></title>
         <id>https://ShangjinTang.github.io/site/blog/mdx/support-fontawesome</id>
