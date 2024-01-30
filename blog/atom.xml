@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ShangjinTang.github.io/site/blog</id>
-    <title>Sol's Zone Blog</title>
+    <title>Sol 的空间 Blog</title>
     <updated>2023-12-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ShangjinTang.github.io/site/blog"/>
-    <subtitle>Sol's Zone Blog</subtitle>
+    <subtitle>Sol 的空间 Blog</subtitle>
     <icon>https://ShangjinTang.github.io/site/img/favicon_sol.ico</icon>
     <entry>
         <title type="html"><![CDATA[支持 Font Awesome]]></title>
