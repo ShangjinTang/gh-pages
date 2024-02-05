@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2914],{37437:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u79d1\u6280\u6d1e\u89c1\u7b2c 1 \u671f: \u6210\u719f\u8f6f\u4ef6\u4e4b\u7f8e","permalink":"/site/insights/2024/01/31/weekly-001","unlisted":false}]}')}}]);
