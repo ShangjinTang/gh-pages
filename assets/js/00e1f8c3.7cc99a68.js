@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2963],{84599:s=>{s.exports=JSON.parse('{"label":"latex","permalink":"/blog/tags/latex","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

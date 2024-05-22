@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[6730],{3553:s=>{s.exports=JSON.parse('{"label":"video-container","permalink":"/site/blog/tags/video-container","allTagsPath":"/site/blog/tags","count":1,"unlisted":false}')}}]);

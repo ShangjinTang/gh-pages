@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[6798],{16810:s=>{s.exports=JSON.parse('{"label":"tabitem","permalink":"/blog/tags/tabitem","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

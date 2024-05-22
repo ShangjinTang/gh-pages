@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2546],{57792:s=>{s.exports=JSON.parse('{"label":"youtube","permalink":"/site/blog/tags/youtube","allTagsPath":"/site/blog/tags","count":1,"unlisted":false}')}}]);
