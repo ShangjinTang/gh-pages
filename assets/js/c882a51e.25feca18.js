@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[9222],{44027:s=>{s.exports=JSON.parse('{"permalink":"/blog/tags/katex","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Sol \u7684\u535a\u5ba2","blogTitle":"Sol \u7684\u535a\u5ba2"}')}}]);

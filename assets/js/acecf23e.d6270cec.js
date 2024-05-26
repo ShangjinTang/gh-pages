@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[7393],{81838:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Sol \u7684\u535a\u5ba2"}')}}]);
