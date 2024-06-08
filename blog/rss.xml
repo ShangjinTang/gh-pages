@@ -4,19 +4,10 @@
         <title>Sol 的空间 Blog</title>
         <link>https://www.szdev.com/blog</link>
         <description>Sol 的空间 Blog</description>
-        <lastBuildDate>Sat, 08 Jun 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
-        <item>
-            <title><![CDATA[新增 Kotlin Code Runner]]></title>
-            <link>https://www.szdev.com/blog/code-runner/kotlin</link>
-            <guid>https://www.szdev.com/blog/code-runner/kotlin</guid>
-            <pubDate>Sat, 08 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<iframe src="https://pl.kotl.in/tQtNr0S8m" width="100%" height="400"></iframe>]]></content:encoded>
-            <category>kotlin</category>
-            <category>code-runner</category>
-        </item>
         <item>
             <title><![CDATA[模板元编程：斐波那契数列]]></title>
             <link>https://www.szdev.com/blog/cpp/calculate-fibonnaci-with-template-meta-programming</link>
