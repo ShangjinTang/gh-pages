@@ -179,13 +179,13 @@
             <category>font</category>
         </item>
         <item>
-            <title><![CDATA[Interactive Map with Leaflet]]></title>
+            <title><![CDATA[MDX 中使用 Leaflet 绘制地图]]></title>
             <link>https://www.szdev.com/blog/mdx/interactive-map-with-leaflet</link>
             <guid>https://www.szdev.com/blog/mdx/interactive-map-with-leaflet</guid>
             <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://leafletjs.com/" target="_blank" rel="noopener noreferrer"><strong>Leaflet</strong></a> is the leading open-source JavaScript library for mobile-friendly interactive maps.</p>
-<p>We'll draw a interactive map with <strong>Leaflet</strong>.</p>
+            <description><![CDATA[Leaflet 是地理信息系统（GIS）中流行的开源 JavaScript 库。]]></description>
+            <content:encoded><![CDATA[<p><a href="https://leafletjs.com/" target="_blank" rel="noopener noreferrer"><strong>Leaflet</strong></a> 是地理信息系统（GIS）中流行的开源 JavaScript 库。</p>
+<p>本文在 MDX 中使用 <strong>Leaflet</strong> 绘制交互式地图。</p>
 <!-- -->
 <!-- -->
 <p></p><div id="map" style="aspect-ratio:16/9"></div>;<p></p>]]></content:encoded>
@@ -288,7 +288,7 @@
 <li><code>2019-05-30-welcome/index.md</code></li>
 </ul>
 <p>写博客时，可以方便地在同级文件夹内引用图像：</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus 毛绒玩具" src="https://www.szdev.com/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Docusaurus 毛绒玩��具" src="https://www.szdev.com/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
 <p>博客也支持标签！</p>
 <p><strong>如果不需要博客</strong>：删除此目录，并在 Docusaurus 配置中使用 <code>blog: false</code> 即可。</p>]]></content:encoded>
             <category>docusaurus</category>
