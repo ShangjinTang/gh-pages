@@ -196,7 +196,7 @@
         <category label="font" term="font"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MDX 中使用 Leaflet 绘制地图]]></title>
+        <title type="html"><![CDATA[使用 Leaflet 绘制地图]]></title>
         <id>https://www.szdev.com/blog/mdx/interactive-map-with-leaflet</id>
         <link href="https://www.szdev.com/blog/mdx/interactive-map-with-leaflet"/>
         <updated>2023-11-29T00:00:00.000Z</updated>
@@ -320,7 +320,7 @@
 <li><code>2019-05-30-welcome/index.md</code></li>
 </ul>
 <p>写博客时，可以方便地在同级文件夹内引用图像：</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus 毛绒玩��具" src="https://www.szdev.com/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Docusaurus 毛绒玩具" src="https://www.szdev.com/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
 <p>博客也支持标签！</p>
 <p><strong>如果不需要博客</strong>：删除此目录，并在 Docusaurus 配置中使用 <code>blog: false</code> 即可。</p>]]></content>
         <author>
