@@ -4,10 +4,21 @@
         <title>Sol 的空间 Blog</title>
         <link>https://www.szdev.com/blog</link>
         <description>Sol 的空间 Blog</description>
-        <lastBuildDate>Wed, 16 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[更改默认字体]]></title>
+            <link>https://www.szdev.com/blog/site/change-default-fonts</link>
+            <guid>https://www.szdev.com/blog/site/change-default-fonts</guid>
+            <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[本站默认字体现已更改为 LxgwWenKai Screen.]]></description>
+            <content:encoded><![CDATA[<p>本站默认字体现已更改为 <a href="https://github.com/lxgw/LxgwWenKai-Screen" target="_blank" rel="noopener noreferrer">LxgwWenKai Screen</a>.</p>]]></content:encoded>
+            <author>shangjin.tang@gmail.com (Sol)</author>
+            <category>site</category>
+            <category>font</category>
+        </item>
         <item>
             <title><![CDATA[统一中文排版]]></title>
             <link>https://www.szdev.com/blog/tools/cli/autocorrect</link>
@@ -178,21 +189,6 @@
             <category>mdx</category>
             <category>youtube</category>
             <category>video-container</category>
-        </item>
-        <item>
-            <title><![CDATA[更改默认字体]]></title>
-            <link>https://www.szdev.com/blog/site/change-default-fonts</link>
-            <guid>https://www.szdev.com/blog/site/change-default-fonts</guid>
-            <pubDate>Sun, 03 Dec 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[本站默认字体现已更改为：]]></description>
-            <content:encoded><![CDATA[<p>本站默认字体现已更改为：</p>
-<ul>
-<li><code>Optimistic Display</code> (对于普通文本)</li>
-<li><code>Source Code Pro</code> (用于等宽文本)</li>
-</ul>]]></content:encoded>
-            <author>shangjin.tang@gmail.com (Sol)</author>
-            <category>site</category>
-            <category>font</category>
         </item>
         <item>
             <title><![CDATA[使用 Leaflet 绘制地图]]></title>
