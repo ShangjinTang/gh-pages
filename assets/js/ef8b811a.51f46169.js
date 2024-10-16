@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[8947],{56600:s=>{s.exports=JSON.parse('{"authors":[{"name":"Sol","title":"\u5168\u6808\u5f00\u53d1\u8005","imageURL":"https://github.com/ShangjinTang.png","key":"sol","page":null,"count":13}]}')}}]);
