@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ShangjinTang.github.io/site/blog</id>
-    <title>上进的空间 Blog</title>
+    <title>上进的网站 Blog</title>
     <updated>2024-10-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ShangjinTang.github.io/site/blog"/>
-    <subtitle>上进的空间 Blog</subtitle>
+    <subtitle>上进的网站 Blog</subtitle>
     <icon>https://ShangjinTang.github.io/site/img/favicon_sol.ico</icon>
     <entry>
         <title type="html"><![CDATA[支持嵌入 YouTube 和 Bilibili 视频]]></title>
@@ -34,7 +34,7 @@
 <div class="language-jsx codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-jsx codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag class-name" style="color:#00009f">Bilibili</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">id</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">BV1bi4y1675m</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">title</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">Animenz - Unravel [钢琴版]</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <div class="video-wrap"><p class="video-title">Animenz - Unravel [钢琴版]</p><div class="video-container"><div style="position:relative;padding:30% 45%"><iframe style="position:absolute;width:100%;height:100%;left:0;top:0" src="https://player.bilibili.com/player.html?cid=&amp;bvid=BV1px411A7ir&amp;aid=&amp;page=1&amp;as_wide=0&amp;high_quality=1&amp;danmaku=1&amp;autoplay=0" allowfullscreen="" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" scrolling="no"></iframe></div><p></p></div></div>]]></content>
         <author>
-            <name>Shangjin Tang</name>
+            <name>上进</name>
             <email>shangjin.tang@gmail.com</email>
         </author>
         <category label="mdx" term="mdx"/>
@@ -50,7 +50,7 @@
         <summary type="html"><![CDATA[本站使用 autocorrect 对中文内容进行统一排版和修正。]]></summary>
         <content type="html"><![CDATA[<p>本站使用 <a href="https://github.com/huacnlee/autocorrect" target="_blank" rel="noopener noreferrer">autocorrect</a> 对中文内容进行统一排版和修正。</p>]]></content>
         <author>
-            <name>Shangjin Tang</name>
+            <name>上进</name>
             <email>shangjin.tang@gmail.com</email>
         </author>
     </entry>
@@ -98,7 +98,7 @@
 <p>通过使用模板元编程技术，我们可以在编译时计算斐波那契数列，避免了递归函数的重复计算，在一些需要高效计算斐波那契数列的场景下，这种方法可以提供更好的性能。</p>
 <p>希望这篇博客能帮助你理解如何使用模板元编程实现斐波那契数列的编译期计算，并对此有所启发。</p>]]></content>
         <author>
-            <name>Shangjin Tang</name>
+            <name>上进</name>
             <email>shangjin.tang@gmail.com</email>
         </author>
         <category label="cpp" term="cpp"/>
@@ -147,7 +147,7 @@
 <div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">There are </span><span class="token number" style="color:#36acaa">2</span><span class="token plain"> choices </span><span class="token keyword" style="color:#00009f">for</span><span class="token plain"> the alternative clang </span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain">providing /usr/bin/clang</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain">.</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  Selection    Path               Priority   Status</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">------------------------------------------------------------</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">* </span><span class="token number" style="color:#36acaa">0</span><span class="token plain">            /usr/bin/clang-18   </span><span class="token number" style="color:#36acaa">18</span><span class="token plain">        auto mode</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token number" style="color:#36acaa">1</span><span class="token plain">            /usr/bin/clang-14   </span><span class="token number" style="color:#36acaa">14</span><span class="token plain">        manual mode</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token number" style="color:#36acaa">2</span><span class="token plain">            /usr/bin/clang-18   </span><span class="token number" style="color:#36acaa">18</span><span class="token plain">        manual mode</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Press </span><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">enter</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token plain"> to keep the current choice</span><span class="token punctuation" style="color:#393A34">[</span><span class="token plain">*</span><span class="token punctuation" style="color:#393A34">]</span><span class="token plain">, or </span><span class="token builtin class-name">type</span><span class="token plain"> selection number:</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <p>输入序号即可。</p>]]></content>
         <author>
-            <name>Shangjin Tang</name>
+            <name>上进</name>
             <email>shangjin.tang@gmail.com</email>
         </author>
         <category label="cpp" term="cpp"/>
@@ -181,7 +181,7 @@
 </li>
 </ol>]]></content>
         <author>
-            <name>Shangjin Tang</name>
+            <name>上进</name>
             <email>shangjin.tang@gmail.com</email>
         </author>
     </entry>
@@ -207,7 +207,7 @@
 <li><code>1x</code> ~ <code>10x</code>: 1em ~ 10em</li>
 </ul>]]></content>
         <author>
-            <name>Shangjin Tang</name>
+            <name>上进</name>
             <email>shangjin.tang@gmail.com</email>
         </author>
         <category label="mdx" term="mdx"/>
@@ -226,7 +226,7 @@
 <!-- -->
 <p></p><div id="map" style="aspect-ratio:16/9"></div>;<p></p>]]></content>
         <author>
-            <name>Shangjin Tang</name>
+            <name>上进</name>
             <email>shangjin.tang@gmail.com</email>
         </author>
         <category label="mdx" term="mdx"/>
@@ -248,7 +248,7 @@
 <div class="language-md codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockTitle_Ktv7">Example Mermaid flowchart</div><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-md codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token code punctuation" style="color:#393A34">```</span><span class="token code code-language">mermaid</span><span class="token code"></span><br></span><span class="token-line" style="color:#393A34"><span class="token code"></span><span class="token code code-block language-mermaid">flowchart TD</span><br></span><span class="token-line" style="color:#393A34"><span class="token code code-block language-mermaid">    A[Christmas] --&gt;|Get money| B(Go shopping)</span><br></span><span class="token-line" style="color:#393A34"><span class="token code code-block language-mermaid">    B --&gt; C{Let me think}</span><br></span><span class="token-line" style="color:#393A34"><span class="token code code-block language-mermaid">    C --&gt;|One| D[Laptop]</span><br></span><span class="token-line" style="color:#393A34"><span class="token code code-block language-mermaid">    C --&gt;|Two| E[iPhone]</span><br></span><span class="token-line" style="color:#393A34"><span class="token code code-block language-mermaid">    C --&gt;|Three| F[fa:fa-car Car]</span><span class="token code"></span><br></span><span class="token-line" style="color:#393A34"><span class="token code"></span><span class="token code punctuation" style="color:#393A34">```</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 ]]></content>
         <author>
-            <name>Shangjin Tang</name>
+            <name>上进</name>
             <email>shangjin.tang@gmail.com</email>
         </author>
         <category label="mdx" term="mdx"/>
@@ -277,7 +277,7 @@
   </tabitem>
 </tabs>]]></content>
         <author>
-            <name>Shangjin Tang</name>
+            <name>上进</name>
             <email>shangjin.tang@gmail.com</email>
         </author>
         <category label="mdx" term="mdx"/>
@@ -302,7 +302,7 @@
 <div class="language-latex codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-latex codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token equation string" style="color:#e3116c">$$</span><br></span><span class="token-line" style="color:#393A34"><span class="token equation string" style="color:#e3116c">I = </span><span class="token equation string equation-command regex" style="color:#36acaa">\int</span><span class="token equation string" style="color:#e3116c">_0^{2</span><span class="token equation string equation-command regex" style="color:#36acaa">\pi</span><span class="token equation string" style="color:#e3116c">} </span><span class="token equation string equation-command regex" style="color:#36acaa">\sin</span><span class="token equation string" style="color:#e3116c">(x)</span><span class="token equation string equation-command regex" style="color:#36acaa">\,</span><span class="token equation string" style="color:#e3116c">dx</span><br></span><span class="token-line" style="color:#393A34"><span class="token equation string" style="color:#e3116c">$$</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>I</mi><mo>=</mo><msubsup><mo>∫</mo><mn>0</mn><mrow><mn>2</mn><mi>π</mi></mrow></msubsup><mi>sin</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext> </mtext><mi>d</mi><mi>x</mi></mrow><annotation encoding="application/x-tex">I = \int_0^{2\pi} \sin(x)\,dx</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em"></span><span class="mord mathnormal" style="margin-right:0.07847em">I</span><span class="mspace" style="margin-right:0.2778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em"></span></span><span class="base"><span class="strut" style="height:2.476em;vertical-align:-0.9119em"></span><span class="mop"><span class="mop op-symbol large-op" style="margin-right:0.44445em;position:relative;top:-0.0011em">∫</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.564em"><span style="top:-1.7881em;margin-left:-0.4445em;margin-right:0.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span><span style="top:-3.8129em;margin-right:0.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="mord mathnormal mtight" style="margin-right:0.03588em">π</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9119em"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.1667em"></span><span class="mop">sin</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.1667em"></span><span class="mord mathnormal">d</span><span class="mord mathnormal">x</span></span></span></span></span>]]></content>
         <author>
-            <name>Shangjin Tang</name>
+            <name>上进</name>
             <email>shangjin.tang@gmail.com</email>
         </author>
         <category label="mdx" term="mdx"/>
@@ -322,7 +322,7 @@
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="diagram">图表式<a href="https://shangjintang.github.io/site/blog/mdx/react-support#diagram" class="hash-link" aria-label="图表式的直接链接" title="图表式的直接链接">​</a></h2>
 <div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>提示</div><div class="admonitionContent_BuS1"><p>使用 React 的强大功能来创建图表。</p><div class="language-mdx codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-mdx codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">import {Chart} from './_asset/snowfall.js';</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">export const year = 2013;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"># 去年降雪</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">{year} 年的降雪量高于平均水平。随之而来的暖春，导致附近许多河流发生洪水。</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">&lt;Chart year={year} color="#fcb32c" /&gt;;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><h1>去年降雪</h1><p>2013<!-- --> 年的降雪量高于平均水平。随之而来的暖春，导致附近许多河流发生洪水。</p><div class="snowfall"><div class="snowfall-bar" style="background-color:#fcb32c;height:calc(6 * 0.5 * (1em + 1ex))"></div><div class="snowfall-bar" style="background-color:#fcb32c;height:calc(5 * 0.5 * (1em + 1ex))"></div><div class="snowfall-bar" style="background-color:#fcb32c;height:calc(2 * 0.5 * (1em + 1ex))"></div><div class="snowfall-bar" style="background-color:#fcb32c;height:calc(4.5 * 0.5 * (1em + 1ex))"></div><div class="snowfall-bar" style="background-color:#fcb32c;height:calc(1.5 * 0.5 * (1em + 1ex))"></div><div class="snowfall-bar" style="background-color:#fcb32c;height:calc(2.5 * 0.5 * (1em + 1ex))"></div><div class="snowfall-bar" style="background-color:#fcb32c;height:calc(2 * 0.5 * (1em + 1ex))"></div><div class="snowfall-bar" style="background-color:#fcb32c;height:calc(2.5 * 0.5 * (1em + 1ex))"></div><div class="snowfall-bar" style="background-color:#fcb32c;height:calc(1.5 * 0.5 * (1em + 1ex))"></div><div class="snowfall-bar" style="background-color:#fcb32c;height:calc(2.5 * 0.5 * (1em + 1ex))"></div><div class="snowfall-bar" style="background-color:#fcb32c;height:calc(3.5 * 0.5 * (1em + 1ex))"></div><div class="snowfall-bar" style="background-color:#fcb32c;height:calc(7 * 0.5 * (1em + 1ex))"></div></div></div></div>]]></content>
         <author>
-            <name>Shangjin Tang</name>
+            <name>上进</name>
             <email>shangjin.tang@gmail.com</email>
         </author>
         <category label="mdx" term="mdx"/>
@@ -348,7 +348,7 @@
 <p>博客也支持标签！</p>
 <p><strong>如果不需要博客</strong>：删除此目录，并在 Docusaurus 配置中使用 <code>blog: false</code> 即可。</p>]]></content>
         <author>
-            <name>Shangjin Tang</name>
+            <name>上进</name>
             <email>shangjin.tang@gmail.com</email>
         </author>
         <category label="docusaurus" term="docusaurus"/>
