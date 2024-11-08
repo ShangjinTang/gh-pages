@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[7650],{29191:s=>{s.exports=JSON.parse('{"tag":{"label":"gum","permalink":"/site/docs/tags/gum","allTagsPath":"/site/docs/tags","count":1,"items":[{"id":"modern-linux/ubuntu2404/gum","title":"gum","description":"","permalink":"/site/docs/gum"}],"unlisted":false}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[7809],{11822:s=>{s.exports=JSON.parse('{"tag":{"label":"gui","permalink":"/site/docs/tags/gui","allTagsPath":"/site/docs/tags","count":1,"items":[{"id":"modern-linux/ubuntu2404/rg","title":"rg","description":"","permalink":"/site/docs/rg"}],"unlisted":false}}')}}]);

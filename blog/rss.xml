@@ -1,56 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Sol 的空间 Blog</title>
+        <title>上进的个人主页 Blog</title>
         <link>https://ShangjinTang.github.io/site/blog</link>
-        <description>Sol 的空间 Blog</description>
-        <lastBuildDate>Fri, 18 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <description>上进的个人主页 Blog</description>
+        <lastBuildDate>Wed, 16 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
-        <item>
-            <title><![CDATA[支持嵌入 YouTube 和 Bilibili 视频]]></title>
-            <link>https://ShangjinTang.github.io/site/blog/mdx/support-video-link</link>
-            <guid>https://ShangjinTang.github.io/site/blog/mdx/support-video-link</guid>
-            <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[基于 Docusaurus 提供的 MDX 组件，本站支持嵌入 YouTube 和 Bilibili 视频。]]></description>
-            <content:encoded><![CDATA[<p>基于 Docusaurus 提供的 MDX 组件，本站支持嵌入 YouTube 和 Bilibili 视频。</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="参数说明">参数说明<a href="https://shangjintang.github.io/site/blog/mdx/support-video-link#%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E" class="hash-link" aria-label="参数说明的直接链接" title="参数说明的直接链接">​</a></h2>
-<p>React 组件： <code>YouTube</code> / <code>Bilibili</code></p>
-<p>组件参数：</p>
-<ul>
-<li><code>id</code>: 必选<!-- -->
-<ul>
-<li><strong>YouTube</strong>: <code>https://www.youtube.com/watch?v=&lt;id&gt;?...</code> 或者 <code>https://youtu.be/&lt;id&gt;?...</code></li>
-<li><strong>Bilibili</strong>: <code>https://www.bilibili.com/video/&lt;id&gt;/?...</code>，由 <code>BV</code> 开头。</li>
-</ul>
-</li>
-<li><code>title</code>: 可选。位置在视频上方；左对齐。</li>
-</ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="示例">示例<a href="https://shangjintang.github.io/site/blog/mdx/support-video-link#%E7%A4%BA%E4%BE%8B" class="hash-link" aria-label="示例的直接链接" title="示例的直接链接">​</a></h2>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="youtube-嵌入">YouTube 嵌入<a href="https://shangjintang.github.io/site/blog/mdx/support-video-link#youtube-%E5%B5%8C%E5%85%A5" class="hash-link" aria-label="YouTube 嵌入的直接链接" title="YouTube 嵌入的直接链接">​</a></h3>
-<div class="language-jsx codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-jsx codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag class-name" style="color:#00009f">YouTube</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">id</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">sEQf5lcnj_o</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">title</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">Animenz - Unravel [Piano Ver.]</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<div class="video-wrap"><p class="video-title">Animenz - Unravel [Piano Ver.]</p><div class="video-container"><div style="position:relative;padding:30% 45%"><iframe style="position:absolute;width:100%;height:100%;left:0;top:0" src="https://www.youtube.com/embed/sEQf5lcnj_o?autoplay=0&amp;enablejsapi=1" allowfullscreen="" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" frameborder="0"></iframe></div><p></p></div></div>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="bilibili-嵌入">Bilibili 嵌入<a href="https://shangjintang.github.io/site/blog/mdx/support-video-link#bilibili-%E5%B5%8C%E5%85%A5" class="hash-link" aria-label="Bilibili 嵌入的直接链接" title="Bilibili 嵌入的直接链接">​</a></h3>
-<div class="language-jsx codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-jsx codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag class-name" style="color:#00009f">Bilibili</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">id</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">BV1bi4y1675m</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">title</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">Animenz - Unravel [钢琴版]</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<div class="video-wrap"><p class="video-title">Animenz - Unravel [钢琴版]</p><div class="video-container"><div style="position:relative;padding:30% 45%"><iframe style="position:absolute;width:100%;height:100%;left:0;top:0" src="https://player.bilibili.com/player.html?cid=&amp;bvid=BV1px411A7ir&amp;aid=&amp;page=1&amp;as_wide=0&amp;high_quality=1&amp;danmaku=1&amp;autoplay=0" allowfullscreen="" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" scrolling="no"></iframe></div><p></p></div></div>]]></content:encoded>
-            <author>shangjin.tang@gmail.com (Sol)</author>
-            <category>mdx</category>
-            <category>youtube</category>
-            <category>bilibili</category>
-            <category>video</category>
-        </item>
-        <item>
-            <title><![CDATA[更改默认字体]]></title>
-            <link>https://ShangjinTang.github.io/site/blog/site/change-default-fonts</link>
-            <guid>https://ShangjinTang.github.io/site/blog/site/change-default-fonts</guid>
-            <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[本站默认字体现已更改为 LxgwWenKai Screen.]]></description>
-            <content:encoded><![CDATA[<p>本站默认字体现已更改为 <a href="https://github.com/lxgw/LxgwWenKai-Screen" target="_blank" rel="noopener noreferrer">LxgwWenKai Screen</a>.</p>]]></content:encoded>
-            <author>shangjin.tang@gmail.com (Sol)</author>
-            <category>site</category>
-            <category>font</category>
-        </item>
         <item>
             <title><![CDATA[统一中文排版]]></title>
             <link>https://ShangjinTang.github.io/site/blog/tools/cli/autocorrect</link>

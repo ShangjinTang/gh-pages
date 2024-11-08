@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[3665],{48770:s=>{s.exports=JSON.parse('{"tag":{"label":"caddy","permalink":"/site/docs/tags/caddy","allTagsPath":"/site/docs/tags","count":1,"items":[{"id":"modern-linux/ubuntu2404/caddy","title":"caddy","description":"","permalink":"/site/docs/caddy"}],"unlisted":false}}')}}]);
